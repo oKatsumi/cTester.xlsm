@@ -10,4 +10,5 @@ Attribute VB_Exposed = False
 Option Explicit
 Public Function myPlas(i As Integer, j As Integer)
     myPlas = i + j + 1
+    
 End Function
